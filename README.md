@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adnan</h1>
 <h3 align="center">Python Full-Stack Developer | Django, React & AI-Powered Applications</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adnaaan10&label=Profile%20views&color=0e75b6&style=flat" alt="adnaaan10" /> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=adnaaan10&show_icons=true&theme=tokyonight"/>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adnaaan10" alt="adnaaan10" /></a> </p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adnaaan10&theme=tokyonight"/>
+</p>
 
 - 🔭 I’m currently working on **Full-Stack Web Applications with AI integration (Django, React, LLMs)**
 
